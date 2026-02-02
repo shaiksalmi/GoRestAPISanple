@@ -1,6 +1,4 @@
-Dockerfile
 
-==================
 
 # Use the official Node.js 20 image as the base image
 
